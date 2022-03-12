@@ -15,4 +15,4 @@ volumes:
     driver_opts:
       type: nfs
       o: addr=10.2.192.8,rw
-      device: ":/mnt/tank/docker/test"
+      device: ":/mnt/tank/csb/www/html"
